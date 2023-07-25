@@ -1,3 +1,11 @@
+Verse: C9, Em7*, C7, Em, G, D?**
+Em7*:022030
+D?**:xx0204
+
+Chorus: G, C, D, Em
+Chorus end: G, C, D, C, D, Em
+
+Bridge: C, G, D, C, D?, Em (I think)
 
 (V1)
 What kind of shit did you have to step over to get to me?
