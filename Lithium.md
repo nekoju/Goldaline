@@ -1,6 +1,6 @@
 ---
 created: 2023-08-10T16:48:00-04:00
-modified: 2023-08-10T17:21:24-04:00
+modified: 2023-08-10T17:25:58-04:00
 ---
 
 # Lithium
@@ -11,7 +11,7 @@ What a choice to have to make
 Soil my britches? Lose my mind?
 Turns out functionality and continence are really quite in line
 What's it mean to function anyway?
-When the first and second orders of volition have orthogonal signs
+When the first and second orders of volition are mismatched have opposing signs
 
 Just try to make the best of it I can
 But the calculus of misery isn't quite so cut and clean
