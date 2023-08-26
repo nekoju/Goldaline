@@ -2,26 +2,23 @@
 created: 2023-08-18T17:40:47-04:00
 modified: 2023-08-21T00:33:32-04:00
 ---
+# Experiment with D/A
 
 Pillar of salt
 
 D                                           Em          G
 I tended a loamy mass of love and teeth and bile on the morning that you found me
         Em           G               D
-But the soils not as rich as it once was
+But the soil's not as rich as it once was
                                          Em             G
 The sallow branches of the carrot tops I planted in the garden now surround me
         Em           G   D
 Digging madly in the now depleted dust
 
-D                                       Em           G                                      
-I wrote a hook and then I saw you at a show that very August evening
-Em                                 G       D
-inadvertently but dear that's only just so true
-              Em          G
-Glancing back now for the second time this minute cause I've always got an eye out
-          Em                  G                                 D
-Is it the auspice of the city or is it just a relapse of the small town blues?
+Set everything aside you've ever listened to of Sodom and Gomorrah
+And think about what happened while the cities burned
+What's it mean to flee from home on ultimatum in a hurry?
+And where's the harm in Edith's momentary turn?
 
     G          Bm
 I'm turning to salt
@@ -31,3 +28,23 @@ While I'm breaking my neck trying to catch a glimpse of your palaces burning
 While I'm feeling my shins solidifying into the earth and
           D                      Em          G
 While I'm wondering if you still think about me
+
+
+In my dream I was attending to the carrots and I saw you coming over
+And when you came you brought a shovel and a tent
+You started digging at the humus there beside me then later on the storm came
+And you took shelter; I dug on and just got wet
+
+The clouds had moved, you took your leave, the sun was beating
+And I stood there with my spade and looked around
+The trampled ash that had at once been fertile soil in the evening
+Was a hard and lonely patch of hellish ground
+
+It's nobody's fault
+That my plot's lying sallow and you don't see any vegetables growing
+That I don't trust anyone any further than I can throw em
+That I'm so goddamned concerned with what you think about me
+?
+That .... Write something
+That .... Write something
+when I wonder if you gave a shit about me
