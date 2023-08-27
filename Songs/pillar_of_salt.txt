@@ -1,9 +1,3 @@
----
-created: 2023-08-18T17:40:47-04:00
-modified: 2023-08-21T00:33:32-04:00
----
-# Experiment with D/A
-
 Pillar of salt
 
 D                                           Em          G
@@ -43,6 +37,7 @@ Was a hard and lonely patch of hellish ground
 It's nobody's fault
 That my plot's lying fallow and you don't see any vegetables growing
 That I don't trust anyone any further than I can throw em
+
 That I'm so goddamned concerned with what you think about me
 ?
 That .... Write something
