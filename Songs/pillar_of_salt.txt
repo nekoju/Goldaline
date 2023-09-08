@@ -1,5 +1,6 @@
 Pillar of salt
 
+[Verse]
 D                                           Em                      G
 I tended a loamy mass of love and teeth and bile on the morning that you found me
         Em           G               D
@@ -9,46 +10,50 @@ The sallow branches of the carrot tops I planted in the garden now surround me
         Em           G   D
 * Digging madly in the now depleted dust
 
+[Break]
+
+[Verse]
 In my dream I was attending to the carrots and I saw you coming over
 And when you came you brought a shovel and a tent
 You started digging at the humus there beside me then later on the storm came
 And you took shelter; I dug on and just got wet
 
+[Verse]
     D                                             Em          G
-The cracks and furrows in the bleached and rocky soil in the morning
+The cracks and furrows in the bleached and rocky soil that I saw there in the morning
          Em            G                D
 Formed a mirror in the grey fluorescent sun
-        D                                Em                      G
+        D                                               Em               G
 Heat and light can grow a garden or can fake one from a distance And the glazing
-       Em         G                   D
+            Em         G                   D
 and my body fell out from the frame as one
 
+[Chorus]
 It's nobody's fault
 That my plot's lying fallow and you don't see any vegetables growing
 That I don't trust anyone any further than I can throw em
 That I'm so goddamned concerned with what you think about me
-?
-That .... Write something
-That .... Write something
 
+[Verse]
     D                                            Em                G
 Set everything aside you've ever listened to of Sodom and Gomorrah
 Recall what happened in the desert while they burned
-          D                         Em                     G
+          D                                 Em                     G
 What's it mean to flee on foot from home on ultimatum in a hurry?
           Em      G                D
-What's the sin in Edith's momentary turn?
+And what's the sin in Edith's momentary turn?
 
-Did she long to walk the gardens of her girlhood in the summer?
+[Verse]
+        G                                  Em                     G
+Did she long to walk the footpaths of the gardens of her girlhood in the summer?
+         Em            G             D
 Did they even tell her why she had to leave?
-Who was she in human glory to find faith in former comfort
-When God in all his squalor told her what will be?
+                                                    Em             G
+Who was she in human glory to find faith in former comfort when the Lord
+            Em                G       D
+in all his squalor told her what will be?
 
-If you find opportunity to wander round the fertile crescent
-Keep an eye out for the ground where nothing grows
-In the absence of the plants that grew before it
-A sterile monument to Edith and her woe 
-
+[Chorus]
     G          Bm
 I'm turning to salt
           D                                  Em                      G
@@ -57,3 +62,9 @@ While I'm breaking my neck trying to catch a glimpse of your palaces burning
 While I'm feeling my shins solidifying into the earth and
           D                      Em          G
 While I'm wondering if you still think about me
+
+[Verse/Outro]
+If you find the time to wander round the fertile crescent
+Keep an eye out for the ground where nothing grows
+In the absence of the life that grew before it
+A sterile monument to Edith and her woe
