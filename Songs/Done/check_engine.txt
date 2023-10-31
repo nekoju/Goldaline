@@ -1,16 +1,16 @@
 # Check engine
 
-[Verse]
-Em, C:           The blood between the gears is running dry
+[Verse 1.1]
+Em, Em/G, C:     The blood between the gears is running dry
 Em, C, G, Em:    The hollow purpose that you've written's Coagulated in the lines
-Em, C, G, D, Em: Each broken rung of chainlink dryly galling out the cogs
+C, G, D, Em:     Each broken rung of chainlink dryly galling out the cogs
 Em, C, G, Em:    To put a point on it, we're shitting on the job
 
-[Verse]
-Em, C:           Have you ever seen a starving engine seize?
+[Verse 1.2]
+Em, Em/G, C:     Have you ever seen a starving engine seize?
 Em, C, G, Em:    Do you wonder what will happen when this motor burns its grease?
-Em, C, G, D, Em: Will it make its own, and round and round? That's what the story says
-Em, C:           Maybe so, but if the whole thing goes,
+C, G, D, Em:     Will it make its own, and round and round? That's what the story says
+Em, C, G, C:     Maybe so, but if the whole thing goes,
 Em, C, G, Em:    the pistons get off easy and the block, it winds up dead
 
 [Chorus]
@@ -19,43 +19,40 @@ C, G, D, Em:     And a radiator filled with tears weeps sulfur-colored smoke
 C, G, D, Em:     And it's tremoring and barking, pull over while there's time
 C, G, Em:        Keep your nuts on babe we're going for a ride
 
-[Verse]
+[Verse 2.1]
 The sweating bosses see the lube is drying up
 "Poke their asses get them wetter they're not working fast enough"
 fluorescent meathooks run us through, paper gimp suit with a grin
 To put a point on it we're swimming in their sin
 
-[Verse]
+[Verse 2.2]
 studs and leather tight against your milky thighs
 And a wooden X to mark the spot she'll flay your bratty hide
 ain't got nothing on some handsome tweed and a car key with a fob
 And a private luncheon with the boss
-To put a point on it, you're a cuckold for your job
+To put a point on it, you're a cuckold for your motherfucking job
 
 [Chorus]
 Cause no one got the memo they've been sold a happy lie
 And the workers work efficiently until their babies die
 Then no amount of corporate polo shirts will clear their bloody eyes
 Keep your nuts on babe we're going for a ride
-
-[Solo]
-
-[Some spoken word interlude about tricky metaphors]
-
-[Verse]
-To put a point on it again one final time
-In case intention somehow fell out and got lost between the lines
-The good life's only good until the next one down gets robbed
-And will you still need that perfect lawn
-When the ones who build your houses turn instead to building bombs?
 
 [Chorus]
 The car we're all driving's got a wobbly frame of bones
 And the carbeurator's choking, gasping at the fumes of hope
 And no little felted pine tree's gonna cover up the smell
-There's bodies in the trunk and we're all driving straight to hell
+C, G, D:        There's bodies in the trunk and we're all driving straight to hell
 
 Cause no one got the memo they've been sold a happy lie
 And the workers work efficiently until their babies die
 Then no amount of corporate polo shirts will clear their bloody eyes
-Keep your nuts on babe we're going for a ride
+C, G, Em:       Keep your nuts on babe we're going for a ride
+C, G, D, Em:    Keep your nuts on babe we're going for a ride
+
+[Verse ?]
+To put a point on it again one final time
+In case intention somehow fell out and got lost between the lines
+The good life's only good until the next one down gets robbed
+And will you still need that perfect lawn
+When the ones who build your houses turn instead to building bombs?
