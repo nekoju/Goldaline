@@ -1,6 +1,19 @@
 You Wrote 'Em
 ---
 
+Notes: Em falls on 1 for the most part despite the awkward phrasing (6/8)
+70ish bpm
+
+Play like:
+            |123 223 |123 223 |123 223 |123 223
+            -----------------------------------
+  - Verse:  |Em      |C       |G       |G(G/F# on last line)
+            |To turn words..           |I'm struggling
+  - Chorus: |Em      |C       |G       |D
+            |You wrote 'em    |Didn't put 'em to paper...
+  - Bridge: |C       |G       |Em      |D
+            |C       |Em      |G       |G/F# (maybe aug?) ... (you wrote 'em)
+
     G
 I'm struggling
         Em                     C                            G
@@ -28,20 +41,19 @@ You wrote 'em
 You wrote 'em
                   G                                 D        Em
 Didn't put 'em to paper but might just as well have held the pen
-     C
+    Em           C
 (You wrote 'em)
                         G                        D           Em
-Didn't come out of your lips but your vacuum, it left me the wind
-                C
+Didn't come out of your lungs but your vacuum, it left me the wind
+    Em            C
 (You wrote 'em)
            G                                 D         Em
 You didn't bloody your fingertips to save an unsavable rhyme
-                 C
+    Em             C
 (You wrote 'em)
                   G                         D            Em
 And you certainly didn't arrange them to match with the time
-               C   G D
-(You wrote 'em)
+        C G D
         Em        C G G/F#
 But you wrote 'em
 
@@ -66,3 +78,31 @@ And if you're looking for meaning in the cobbled together sanctimonious shit tha
 Let me tell you right here and right now that I ain't got a clue
 
 [Chorus]
+          Em          C
+cause You wrote 'em
+                  G                                 D        Em
+Didn't put 'em to paper but might just as well have held the pen
+     C
+(You wrote 'em)
+                        G                        D           Em
+Didn't come out of your lungs but your vacuum, it left me the wind
+     C
+(You wrote 'em)
+           G                                 D         Em
+You didn't bloody your fingertips to save an unsavable rhyme
+     C
+(You wrote 'em)
+                  G                         D            Em
+And you certainly didn't arrange them to match with the time
+                  G                         D            Em
+And to any expecting a glib tidy moral all tightly tied up in a bow
+                  C   G D
+You out of all of 'em really should just oughtta know (final only)
+     Em          C   G D
+Cause you wrote 'em
+     Em          C   G D
+You wrote 'em
+     Em          C   G D
+You wrote 'em
+        Em       
+You wrote 'em

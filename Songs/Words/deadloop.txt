@@ -1,44 +1,62 @@
 ---
 Deadloop
+C
+G                 : Always gonna be lonely
+C                 : Always gonna be sad
+G, C              : Always gonna be thinkin bout the things that I don't have
+G                 : Always gonna clumsy
+C                 : Always gonna be dumb
+G, C              : Always gonna always gonna write songs too overwrought too much to mean a fuck
+E7                : Always gonna be sorry
+F                 : Always gonna feel wrong
+E7, F, C(walk), E7: Always gonna wonder where I'll end up when I screw the fucking dog
 
-Always gonna be lonely
-Always gonna be sad
-Always gonna be thinkin bout the things that I don't have
+C                 : Always
+E7                : gonna say I'm never
+F                 : Gonna be as clever 
+C, G              : as my dad wanted me to be
+C                 : but after all
+E7                : I'm doing better
+F, D              : than the dice's snakeyes see 
+C                 : so whatever quantum
+E7                : bullshit is or isn't
+F                 : happening in my brain
+C, E7, Gaug       : Fuck the expectations
+C                 : And oh yeah fuck the state
 
-Always gonna clumsy
-Always gonna be dumb
-Always gonna always gonna write songs that rhyme too much to mean a fuck
+G                 : Fuck being lonely
+C                 : Fuck being sad
+C, G              : Fuck wondering bout the opportunities I did or didn't have
+G                 : Fuck feeling clumsy
+C                 : Fuck feeling dumb and
+C, G              : Fuck feeling like the words I write are dealing empty hands
+E7                : Fuck being sorry
+F                 : Fuck being wrong and
+E7, F, C(walk), E7: Fuck all the condescending bastards who will never understand
 
-Always gonna be sorry
-Always gonna feel wrong
-Always gonna wonder where I'll end up when I screw the fucking dog
+C                 : Cuz I'm a multitude        
+E7                : containing
+F                 : Absent-minded
+C, G              : fucking klutz
+C                 : And some of
+E7                : all those vectors 
+F                 : sure enough point elsewhere
+D                 : than but up
+C                 : But wherever the 
+E7                : bag of cold cuts leads me
+F                 : that will maybe lay my fate
+G                 : Fuck the expectations...
+C                 : And oh yeah fuck the state
 
-Always gonna say I'm never
-Gonna be as clever as my dad wanted me to be
-but after all I'm doing better than the dice should say I be
-so whatever quantum bullshit is or isn't happening in my brain
-Fuck the expecatations... And oh yeah fuck the state
-
-Fuck being lonely
-Fuck being sad
-Fuck wondering bout the opportunities I did or didn't have
-
-Fuck feeling clumsy
-Fuck feeling dumb
-Fuck feeling like the words I write are dealing empty hands
-
-Fuck being sorry
-Fuck being wrong
-Fuck all the condescending bastards who will never understand
-
-Cuz I'm a multitude-containing
-Absent-minded fucking klutz
-And some of those vectors sure enough point elsewhere than but up
-But wherever the bag of cold cuts leads me that ostensibly lays my fate
-Fuck the expectations... And oh yeah fuck the state
-
-Always gonna say I'm never
-Gonna be as clever as my mom wanted me to be
-but after all I'm doing better than the dice should say I be
-so whatever quantum bullshit is or isn't happening in my brain
-Fuck the expecatations... And while we're at it fuck the state
+C                 : Always
+E7                : gonna say I'm never
+F                 : Gonna be as clever 
+C, G              : as my dad wanted me to be
+C                 : but after all
+E7                : I'm doing better
+F, D              : than the dice's snakeyes see 
+C                 : so whatever quantum
+E7                : bullshit is or isn't
+F                 : happening in my brain
+C, E7, Gaug       : Fuck the expectations
+C                 : And while we're at it fuck the state

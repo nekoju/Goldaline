@@ -1,0 +1,5 @@
+Title; Artist; Difficulty; Preference Rating; Notes;
+Hall of Mirrors; The Distillers; *; ***;
+I'd Do Anything; Baroness; *; **;
+O Father O Satan O sun; Behemoth; ***; *****;
+Funeral Singers; Califone; *; *;

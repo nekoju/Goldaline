@@ -25,8 +25,8 @@ The cracks and furrows in the bleached and rocky soil that I saw there in the mo
 Formed a mirror in the grey fluorescent sun
         D                                               Em               G
 Heat and light can grow a garden or can fake one from a distance And the glazing
-            Em         G                   D
-and my body fell out from the frame as one
+                       Em         G                   D
+and the dirt within my body fell out from the frame as one
 
 [Chorus]
 It's nobody's fault
@@ -34,9 +34,15 @@ That my plot's lying fallow and you don't see any vegetables growing
 That I don't trust anyone any further than I can throw em
 That I'm so goddamned concerned with what you think about me
 
-[Verse]
-    D                                            Em                G
+        |                |                |                |                |
+        ---------------------------------------------------------------------
+- Verse |D               |Em      G       |                |Em       |G     |D
+        |
+
+[Verse]        
+    D                            |Em             G                 |
 Set everything aside you've ever listened to of Sodom and Gomorrah
+            |Em              G                D
 Recall what happened in the desert while they burned
           D                                 Em                     G
 What's it mean to flee on foot from home on ultimatum in a hurry?

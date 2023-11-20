@@ -17,7 +17,7 @@ But the calculus of misery isn't quite so cut and clean
 What's worse for the body and the spirit?
 Fear and ennui, or to need to wash your jeans?
 Well the britches pay the bills so I'll just keep on keepin on
-And when the pharmacist says "any questions?" I'll say "no" and then I'll leave
+And when the pharmacist says "any questions?" I'll say "no" and I'll be gone
 
 A blood test in the morning and a check-in with the doc
 She asks me if it's working and I say it's kinda hard to tell
