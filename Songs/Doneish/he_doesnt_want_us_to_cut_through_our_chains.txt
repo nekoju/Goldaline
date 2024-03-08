@@ -11,42 +11,33 @@ C9:      032030
 C-m7M7:  x32300
 EmDim:   022300
 
-Em, D, Am, D, Em6, Em
-A dash more of scopolomine to make me wonder why my hands bleed in the morning
-G, D, Am, D, Em6, Em, C7
-I'll assume it's masturbation not the needles sticking out of everywhere they land
-Em, D, Am, D, Em6, Em
-Tripping down the hall staring down the glint of every sharpened surface pointing towards me
-G, D, Am, D, C, C-m7M7
-I'll take the morphine with a sixer, and about the lacerations, "I'll be damned?"
+Em, D, Am, D, Em6, Em:      A dash more of scopolomine to make me wonder why my hands bleed in the morning
+G, D, Am, D, Em6, Em, C7:   I'll assume it's masturbation not the needles sticking out of everywhere they land
+Em, D, Am, D, Em6, Em:      Tripping down the hall staring down the glint of every sharpened surface pointing towards me
+G, D, Am, D, C, C-m7M7:     I'll take the morphine with a sixer, and about the lacerations, "I'll be damned?"
 
-|(4)Em ->    |(1)E5   
-|   Deck the |halls
-     |G,         D
-with |razor wire sharp and dense
-   |C9,                 D
-to |flay the flesh from light 
-           |Em ->       E5
-that tries |to find its way into my eyes
-                  |Em7   Em
---(3)but that was |never planned
-    |G ->                               D5
-And |scatter broken bottles on where my feet'll find, 
+(4)Em ->    (1)E5:  Deck the halls
+     G,         D
+with razor wire sharp and dense
+   C9,                 D
+to flay the flesh from light 
+           Em ->       E5
+that tries to find its way into my eyes
+                  Em7   Em
+--(3)but that was never planned
+    G ->                               D5
+And scatter broken bottles on where my feet'll find, 
     C9,         D
 but If and only if
-             Em,    |E5
-I'm stepping out of |line
-         |D5,                C5,            Em6,            C7
---but my |feet are dragging, honey, and the line is made of sand
+             Em,    E5
+I'm stepping out of line
+         D5,                C5,            Em6,            C7
+--but my feet are dragging, honey, and the line is made of sand
 
 That piece of gristle on the corner of the table in my bedroom used to be my thigh
-
 But I snagged myself while I was throwing out the condoms in the drawer beside the Word
-
 Now with the rubbers and the crimson words of Jesus on the heap where they are needed
-
 I'll have another double so my wet and throbbing nightmares come up slurred
-
 
 Deck the halls
 with razor wire sharp and dense to flay the flesh from wayward light that tries to find its way into my eyes
