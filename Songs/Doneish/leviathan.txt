@@ -1,52 +1,132 @@
 ---
 Leviathan (Formerly Ouroboros)
 
-Em
-There's an ebb and a flow and a tumult and a tow
-   C
-to fucking around and finding out
-Em
-A snake or whatevever metaphor you would use
-C                                   Em/G
-like a bullshit inlet to its spout
-              G              C                Em       C
+The Riff/verse:          |C#m|A  |C#m     |A E/C#m      |
+The Other Riff/chorus:   |C#m|A  |E/C#m   |Aus2         |
+                         | * | * | *      |F#*          |
+                         | * | * | *      |G#*          |
+                                           ^last chord changes each rep in chorus
+F#*: F#, F#, D# (I play as 504xxx)
+G#*: G#, F#, F# (I play as 707xxx)
+
+
+[Intro (The Riff, slow) X2]
+
+[Chug C#m 2 bars]
+
+[Verse (The Riff, but time is doubled)]
+[I count it as the bars being doubled but you could just count it in 8 and this is probably more correct)]
+***
+                       C#m
+[The Riff]  There's an ebb and a flow and a tumult and a tow
+               A
+            to fucking around and finding out
+              C#m
+            A snake or whatevever metaphor you would use
+                   A                     E/C#m7   Asus2
+            like a bullshit inlet to its spout
+              E              A            C#m          A
 And there's a preacher whose sermon we're all suddenly learnin'
-   Em/G        F#?         Em
+    E   walk   D#          C#
 is failing the test of the Mount
 
-Em
-But the time's coming soon when a place where the moon
-            C
-catches the balconies off the white house
-    Em
-the president's kid getting high on the stoop
-C                                   Em/G
-Thinks the country could use some improvin'
-       G         C          Em        C
+[Chug C# 1 bar]
+
+[Verse]
+                    C#m
+[The Riff]  But the time's coming soon when a place where the moon
+                                   A
+            catches the eye of the president's kid on the balcony off the white house
+                    C#m
+            and the kid burns a joint all the way to the root and convinces his dad
+                     A                      E
+            that the country could use some improvin'
+       E         A          C#m       A
 and he hires his son and he fires his hack 
-        Em/G        F#?         Em
+   E walk   D#         C#
 To plan our fortuitous doom
+            
 
-I'm not a prophet or philsopher, maybe nor a decent lay
-But anyone who knows Can see the light that's coming up ain't the light of heaven but the lizard's busted gut
-And to pick up where I put it down What's a human's lonely body
-on on a bottle's fleshy frame?
 
-When the faces and bodies melting out of the walls
-In the torturous poses you put 'em in
-And your kids' frightened cries at the sight of the flies
-Pouring out of an open church bulletin
-And they'll go for the throat of the man with the money
+                    
+[Chorus]                      C#m        A                 E/C#m7       Asus2
+[The Other Riff]    I'm not a prophet or philsopher, maybe nor a decent lay
+                                   C#m               A                                E/C#m7                       F#*
+                    But anyone who knows Can see the light that's coming up ain't the light of heaven but the lizard's busted gut
+                           C#m                    D             E/C#m7                      F#*       G#*
+                    And to pick up where I put it down What's a human's lonely body on on a bottle's fleshy frame?
+
+[Chug C#m 2 bars]
+
+[Verse (plus extra lines, repeat first half of The Riff)]
+[The Riff]                   C#m           
+                    When the faces and bodies melting out of the walls
+                           A
+                    In the torturous poses you put 'em in
+                             C#m            
+                    And your kids' frightened cries at the sight of the flies
+                            A         E/C#m7
+                    Pouring out of an open church bulletin
+                        C#m
+                    Overtakes them with rage later on in their days
+                             A
+                    And they come for religion and sharpen their knives
+        E          A             C#m          A
+They'll go for the throat of the man with the money
+      E walk   D#         C#
 who's telling them who to despise.
 
-I'm not a prophet or philsopher, maybe nor a decent lay
-But anyone who knows Can see the light that's coming ain't the light of heaven but the lizard's busted gut
-And to pick up where I put it down what's a human's body
-On on a atom's fleshy frame?
+[Chorus]                      C#m        A                 E/C#m7       Asus2
+[The Other Riff]    I'm not a prophet or philsopher, maybe nor a decent lay
+                                   C#m               A                                E/C#m7                       F#*
+                    But anyone who knows Can see the light that's coming up ain't the light of heaven but the lizard's busted gut
+                           C#m                    D             E/C#m7                      F#*    G#*
+                    And to pick up where I put it down What's a human's lonely body on on a atom's fleshy frame?
 
-[Bridge]
+[Bridge transition (The Riff, but faster)]
+[Bridge (The Riff, but Heavier)]
 
-I'm not a prophet or philsopher, maybe nor a decent lay
-But anyone who knows Can see the light that's coming up is the glow of burning bodies through lizard's busted gut
-And to pick up where I put it down
-Well God sure didn't complain
+[Chorus, triple time]
+          C#m        A                       E/C#m7 Asus2
+[The Other Riff]    I'm not a prophet or philsopher, maybe nor a decent lay
+                        C#m                           A                              E/C#m7                       F#*
+                    But anyone who knows Can see the light that's coming up is the glow of burning bodies through lizard's busted gut
+                           C#m             A           E/C#m7      F#*             G#*     
+                    And to pick up where I put it down        well God sure didn't complain
+
+[Outro/The Other Riff, triple time]
+[^^ *Diminution to quarter notes*]
+
+Outro Riff, Same chords as chorus except the pattern is 4 reps instead of three
+(Extra walkdown riff after 2nd rep)
+*each note below is a triplet so |4--4--4--4--| is played as |444444444444| (trem pick)
+12/8 (can count in 4)
+I've been playing the tremolo riff as below. Only the last measure changes for each repetition
+
+e|------------|------------|------------|------------|
+B|------------|------------|------------|------------|
+G|------------|------------|------------|------------|
+D|4--4--4--7--|9--9--9--9--|------------|6--5--------|
+A|------------|------------|7--7--7-----|------6--5--|
+E|------------|------------|---------5--|------------|
+
+                                       e|------------|
+                                       B|------------|
+                                       G|------------|
+                                       D|9-----6-----|
+                                       A|---7-----6--|
+                                       E|------------|
+
+                                       e|------------|
+                                       B|------------|
+                                       G|------------|
+                                       D|6--5--------|
+                                       A|------6--5--|
+                                       E|------------|
+
+                                       e|------------|
+                                       B|------------|
+                                       G|------------|
+                                       D|------------|
+                                       A|9--7--6--7--|
+                                       E|------------|
