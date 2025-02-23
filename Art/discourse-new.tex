@@ -5,15 +5,15 @@
 \usepackage{graphicx}
 \usepackage[paperheight=4.75in,paperwidth=4.75in,top=0.20in,bottom=0.65in,left=0.0in,right=0.0in,heightrounded]{geometry}
 \usepackage{verse}
+\setlength{\beforepoemtitleskip}{0pt}
 \setlength{\afterpoemtitleskip}{0pt}
 \usepackage[pages=some]{background}
-\backgroundsetup{firstpage = true, scale = 1.10, angle = 0, opacity = 1, contents = {\includegraphics{border.pdf}}}
+\backgroundsetup{firstpage=true,scale=1.10,angle=0,opacity=1,contents={\includegraphics{border.pdf}}}
 \usepackage{multicol}
-\setlength{\columnsep}{1cm}
+\setlength{\columnsep}{0cm}
 \setlength{\vindent}{0.5cm}
-% \usepackage{savetrees}
+\usepackage{savetrees}
 \usepackage{amssymb}
-\usepackage{amsmath}
 \usepackage{tikz}
 \usepackage{titlesec}
 \usepackage{titling}
@@ -23,6 +23,7 @@
 \author{Cattle Cult}
 \date{}
 
+\newcommand{\noTOCpoemtitle}[1]{\poemtitle{#1}}  % Keep title but don't add to TOC
 \begin{document}
 
 
@@ -42,11 +43,12 @@
 
 %--Paper--
 
+\begin{multicols}{2}
 \pagestyle{plain}
 \pagenumbering{arabic}
+
 \begin{verse}
-\poemtitle{A knife between friends}
-\begin{multicols}{2}
+    \poemtitle{A knife between friends}
 \tiny
 You came down and out \\
 Not knowing where you'd be or what you'd be without \\
@@ -81,15 +83,11 @@ Again before Heaven, \emph{Why did I come? What makes us blush and what makes us
 \textcolor{Red}{``Just bags full of chemicals bumping into each other.''}
 
 $\hfill\blacksquare$
-
-\end{multicols}
 \end{verse}
 
-\newpage
-
 \begin{verse}
-\poemtitle{Who the fuck knows?}
-\begin{multicols}{2}
+\poemtitle{\raggedright Who the fuck knows?}
+
 \tiny
 Does it cause you cognitive dissonance\\
 When it turns out that the one who said they loved you really didn't?\\
@@ -98,7 +96,7 @@ Cause your parents fought that Saturday and ruined your fucking picnic?\\
 Does it make it any easier to swallow\\
 Your pointless fucking fate to know it's fucking pointless anyway\\
 And will your lawyer even show?\\
-\textcolor{Red}{Who the fuck knows?} [See eq. \ref{eq:lk-instablity}]
+\textcolor{Red}{Who the fuck knows?}
 
 Would I be doing any differently\\
 If someone hadn't told me time again I'm just emotionally indulgent?\\
@@ -131,29 +129,17 @@ Of its body and its mind and of its soul \\
 \hspace{2em} Has got to show you 'bout the shadows of your past
 }
 
-\hspace{2em} \emph{CHORUS}\\
-\hspace{2em} ... \\
-\hspace{2em} And instead of lilting backlit shadows cast by all my rotten luck \\
-\hspace{2em} Gonna drink a beer with someone else who gives a fuck
+\hspace{2em} \emph{CHORUS}
 
-\begin{equation} \label{eq:lk-instablity}
-\begin{array}{cc}
-\frac{dx}{dt} = \alpha x - \beta xy & \frac{dy}{dt} = \delta xy - \gamma y \\
-\\
-\text{Tr}(J) = -\alpha > 0 & \lambda > 0
-\end{array}
-\end{equation}
+And instead of lilting backlit shadows cast by all my rotten luck \\
+Gonna drink a beer with someone else who gives a fuck
 
 $\hfill\blacksquare$
-
-\end{multicols}
 \end{verse}
 
-\newpage
-
 \begin{verse}
-\poemtitle{Superfund}
-\begin{multicols}{2}
+\poemtitle{\raggedright Superfund}
+
 \tiny
 What kind of shit you have to step over to get to me? \\
 Did you miss the tower of cans and stack of dirty magazines? \\
@@ -184,15 +170,15 @@ With the animals deformed and their uncountable legs \\
 Do you see the puddle with its iridescent sheen? \\
 Do you mind its iridescence beyond iridescency?
 
-\hspace{2em} \emph{CHORUS} \\
-\hspace{2em} ... \\
+\hspace{2em} \emph{CHORUS}
+
 \hspace{2em} And there are tadpoles in the languishing craters \\
 \hspace{2em} Maybe the occasional frog \\
 \hspace{2em} Just know that I'm a Superfund, baby \\
 \hspace{2em} Remediate my landscape all night long
 
-\hspace{2em} \emph{CHORUS}\\
-\hspace{2em} ... \\
+\hspace{2em} \emph{CHORUS}
+
 \hspace{2em} And if you wanna find some beauty, you'll find it \\
 \hspace{2em} Succession is a valuable tool \\
 \hspace{2em} But any patch of laurel that you find \\
@@ -204,15 +190,11 @@ Do you mind its iridescence beyond iridescency?
 \hspace{2em} I'll remediate my landscape when you're gone
 
 $\hfill\blacksquare$
-
-\end{multicols}
 \end{verse}
 
-\newpage
-
 \begin{verse}
-\poemtitle{Deadloop}
-\begin{multicols}{2}
+\poemtitle{\raggedright Deadloop}
+
 \tiny
 Always gonna be lonely \\
 Always gonna be sad \\
@@ -242,21 +224,17 @@ Fuck all the condescending bastards that'll never understand
 
 \hspace{2em} Cause I'm a multitude-containing, absent-minded fucking dunce \\
 \hspace{2em} And some of all those vectors sure enough point elsewhere than but up \\
-\hspace{2em} But wherever this bag of cold-cuts takes me that controls my fate \\
+\hspace{2em} But whereever this bag of cold-cuts takes me that controls my fate \\
 \hspace{2em} Fuck the expectations, and oh yeah, fuck the state
 
 \hspace{2em} \emph{CHORUS} [and while we're at it fuck the state]
 
 $\hfill\blacksquare$
-
-\end{multicols}
 \end{verse}
 
-\newpage
-
 \begin{verse}
-\poemtitle{You wrote 'em}
-\begin{multicols}{2}
+\poemtitle{\raggedright You wrote 'em}
+
 \tiny
 I'm struggling to turn words into any kind of truth I can find anything to hang on \\
 To make thunderous nonsense show all of the parts that I hate \\
@@ -289,34 +267,29 @@ Cause you wrote 'em
 \hspace{2em} \emph{CHORUS} [sure as fuck didn't arrange 'em yourself to match with the time]
 
 $\hfill\blacksquare$
-
-\end{multicols}
 \end{verse}
+\end{multicols}
 
 \pagebreak
 
-\addtocontents{toc}{\protect\setcounter{tocdepth}{-1}}
 \begin{verse}
-\poemtitle{Credits}
 \huge
 Discourse
 
 \small
 \copyright 2025 Cattle Cult
 
-Mike Cerame: \emph{Trippy Guitar}, \emph{Vocals} [MC] \\
-Neko Anne Hedonia: \emph{Vocals}, \emph{Twangy Guitar} [NAH] \\
-Clara Kallner: \emph{Bass Guitar}, \emph{Vocals}, \emph{Memes} [LMGS] \\
-Daniel Versweyveld: \emph{Drums}, \emph{Humorous Interjections} [DV]
+Neko Anne Hedonia: \emph{Vocals}, \emph{Guitar} \\
+Mike Cerame: \emph{Guitar}, \emph{Vocals} \\
+Clara Kallner: \emph{Bass Guitar}, \emph{Vocals} \\
+Daniel Versweyveld: \emph{Drums}
 
 Songs by NAH, arrangements by Cattle Cult \\
 Graphic design and typesetting by NAH
 
-Recorded, mixed, and mastered by Greg Moore at Noisy Chairs in Bloomington, IN
+Recorded, mixed, and mastered by Greg Moore at Noisy Chairs in Bloomington, IN in February of 2025
 
-Any likeness to any person or persons, living or dead, who may or may not know exactly who the fuck they are, is entirely coincidental.
-
-Nothing in this book is true. \\
+Nothing in this book is true.
 $\hfill\blacksquare$
 \end{verse}
 

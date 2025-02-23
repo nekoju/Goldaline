@@ -1,0 +1,9 @@
+*.log
+*.pdf
+*.aux
+*.png
+*.fdb_latexmk
+*.fls
+*.xdg
+*.toc
+*.xdv

@@ -1,0 +1,8 @@
+#!/bin/vhell
+bar <- bar -c d |
+baz <- baz -d f |
+jeans <- jeans -a | -b |
+foo -a b ||
+         ||bar|
+         |baz||
+        jeans||
