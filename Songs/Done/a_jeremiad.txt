@@ -21,7 +21,7 @@ Chorus:
     Em Cmaj9 Fmaj7sus4 B7
     Em Cmaj9 Fmaj7sus4 B7
     Em Cmaj9 Gmaj7sus4 B7
-    Am F7    Am        Am
+    AmMaj7 F7    Am        Am
 
     Cmaj9:     879000
     Fmaj7sus4: x889xx
