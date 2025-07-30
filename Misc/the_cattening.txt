@@ -1,0 +1,31 @@
+||TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT\
+||TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT\
+||TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT\
+        ||TTT        ||HHH
+        ||TTT        ||HHH
+        ||TTT        ||HHH
+        ||TTT        ||HHH
+        ||TTT        ||HHH   HHH\        EEEE\      
+        ||TTT        ||HHH HHHHHHHH\  ||EEEEEEE\    
+        ||TTT        ||HHHHHHHH ||HH\ ||EEE  ||E    
+        ||TTT        ||HHH      ||HHH ||EEEEEEE
+        ||TTT        ||HHH      ||HHH  \EEEEE
+        ||TTT        ||HHH      ||HHH   \EE   /E
+        ||TTT        ||HHH      ||HHH    \EEEEE
+        ||TTT        ||HHH      ||HHH     \EEE
+
+        CCCC              |\     |\    
+      CCCCCCC             ||T    ||T   
+     CCC   CCC            ||TT   ||TT                       III 
+   ||CCC   CCC   ||TTTTTTTTTTTTTTTTTTTTTTTTTTTT             III 
+   ||CCC          \TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT      NN            NN      GGG  G
+   ||CCC   CCC   /AAA\    ||TT   ||TTT   EEEE     NNN  NNNN  III NNN  NNNN   GGG GGG
+    \CCC   CCC ||A  ||A   ||TT   ||TTT  EEEEEEEE  NNN NNN NN III NNN NNN NN GGG   GG
+     \CCCCCCCC ||A  ||A   ||TT   ||TTT  EEEE   EE NNNNNN  NN III NNNNNN  NN GGG   GG
+      \CCCCCC  ||AAAAAA   ||TT   ||TTT  EEEEEEEE  NNN     NN III NNN     NN GGG   GG
+       \CCC     \AAA  \AA\ \TT    \ TT  EEEEEE    NNN     NN III NNN     NN   GGGGGG
+                                        EEE   E                                GGG G
+                                         EEEEEE                                   GG
+                                          EEEE                                    GG 
+                                                  GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+                                              GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
