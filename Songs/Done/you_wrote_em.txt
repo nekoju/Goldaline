@@ -7,12 +7,12 @@ Notes: Em falls on 1 for the most part despite the awkward phrasing (6/8)
 Play like:
             |123 223 |123 223 |123 223 |123 223
             -----------------------------------
-  - Verse:  |Em      |C       |G       |G(G/F# on last line)
+  - Verse:  |Em      |C       |G       |G(D/F# on last line)
             |To turn words..           |I'm struggling
   - Chorus: |Em      |C       |G       |D
             |You wrote 'em    |Didn't put 'em to paper...
   - Bridge: |C       |G       |Em      |D
-            |C       |Em      |G       |G/F# (maybe aug?) ... (you wrote 'em)
+            |C       |Em      |G       |D/F# (maybe aug?) ... (you wrote 'em)
 
     G
 I'm struggling
@@ -22,7 +22,7 @@ To turn words into any kind of truth I can find anything to hang on
 to make thunderous nonsense show all the parts of that myself that I hate
          Em                  C                       G
 And I've got no intention of learning anything I can bank on
-            Em               C                                G       G/F#
+            Em               C                                G       D/F#
 But I'll be standing up here singing to anyone listening 'til late
 
     G
@@ -33,7 +33,7 @@ Move me to sing an unspeakable truth that someone'll heed
 Send cleverly planted ideas that will grow like a seed
         Em                     C                            G
 If any among you can find any substance in any of the words that I say
-            Em               C                                G       G/F#
+            Em               C                                G       D/F#
 You wrote 'em
 
 [Chorus]
@@ -54,7 +54,7 @@ You didn't bloody your fingertips to save an unsavable rhyme
                   G                         D            Em
 And you certainly didn't arrange them to match with the time
         C G D
-        Em        C G G/F#
+        Em        C G D/F#
 But you wrote 'em
 
 [Verse 3]
@@ -64,9 +64,9 @@ I'm alone here again
 With the company of the cross I so eagerly carry to bleed on
         Em                                 C          G
 And I'm pacing the boulevard with pitiable paperboard signs
-                  Em           C                G                G/F#
+                  Em           C                G                D/F#
 Even if you can't read em from traffic and even if you just keep keeping on
-    G         C G G/F#
+    G         C G D/F#
 You wrote 'em
 
 [Chorus]
@@ -98,11 +98,11 @@ And you certainly didn't arrange them to match with the time
 And to any expecting a glib tidy moral all tightly tied up in a bow
                   C   G D
 You out of all of 'em really should just oughtta know (final only)
-     Em          C   G D
+     Em          C   G D/F#
 Cause you wrote 'em
-     Em          C   G D
+     Em          C   G D/F#
 You wrote 'em
-     Em          C   G D
+     Em          C   G D/F#
 You wrote 'em
         Em       
 You wrote 'em

@@ -3,82 +3,81 @@ Leviathan (Formerly Ouroboros)
 
 Tuning C# standard (C# F# B E G# C#)
 
-The Riff/verse:          |C#m|A  |C#m         |A E6sus2      |
-The Other Riff/chorus:   |C#m|A  |E6sus2      |B             | (3 0 2 x x x)
-                         | * | * | *          |F#6no3        | (5 0 4 x x x)
-                         | * | * | *          |G#7no3        | (7 0 7 x x x)
+The Riff/verse:          |Em |C  |Em          |C G6sus2     |
+The Other Riff/chorus:   |Em |C  |G6sus2      |B            | (3 0 2 x x x)
+                         | * | * | *          |A6no3        | (5 0 4 x x x)
+                         | * | * | *          |B7no3        | (7 0 7 x x x)
                                            ^last chord changes each rep in chorus
 
 [Intro (The Riff, slow) X2]
 
-[Chug C#m 2 bars]
+[Chug Em 2 bars]
 
-                       C#m
+                       Em
 [The Riff]  There's an ebb and a flow and a tumult and a tow
-               A
+               C
             to fucking around and finding out
-              C#m
-            A snake or whatevever metaphor you would use
-                   A                     E6sus2   Asus2
+              Em
+            C snake or whatevever metaphor you would use
+                   C                     G6sus2   D
             like a bullshit inlet to its spout
-              E              A            C#m          A
+              G              C            Em          C
 And there's a preacher whose sermon we're all suddenly learnin'
-    E   walk   D#          C#
+    G          D          Em
 is failing the test at the Mount
 
 [Chug C# 1 bar]
 
 [Verse]
-                    C#m
+                    Em
 [The Riff]  But the time's coming soon when a place where the moon
-                                   A
+                                   C
             catches the eye of the president's kid on the balcony off the white house
-                    C#m
+                    Em
             and the kid burns a joint all the way to the root and convinces his dad
-                     A                      E
+                     C                      E
             that the country could use some improvin'
-       E         A          C#m       A
+       G         C          Em       C
 and he hires his son and he fires his hack 
-   E walk   D#         C#
+   G     D             Em
 To plan our fortuitous doom
             
 
 
                     
-[Chorus]                      C#m        A                 E6sus2       B
+[Chorus]                      Em        C                 G6sus2       B
 [The Other Riff]    I'm not a prophet or philsopher, maybe nor a decent lay
-                                   C#m               A                                E6sus2                       F#6no3
+                                   Em               C                                G6sus2                       A6no3
                     But anyone who knows Can see the light that's coming up ain't the light of heaven but the lizard's busted gut
-                           C#m                    D             E6sus2                      F#7no3   F#7sus2 C#m
+                           Em                    D             G6sus2                      F#7no3   F#7sus2 Em
                     And to pick up where I put it down What's a human's lonely body on on a bottle's fleshy frame?
 
-[Chug C#m 2 bars]
+[Chug Em 2 bars]
 
 [Verse (plus extra lines, repeat first half of The Riff)]
-[The Riff]                   C#m           
+[The Riff]                   Em           
                     When the faces and bodies melting out of the walls
-                           A
+                           C
                     In the torturous poses you put 'em in
-                             C#m            
+                             Em            
                     And your kids' frightened cries at the sight of the flies
-                            A         E6sus2
+                            C         G6sus2
                     Pouring out of an open church bulletin
-                        C#m
+                        Em
                     Overtakes them with rage later on in their days
-                             A
+                             C
                     And they come for religion and sharpen their knives
-        E          A             C#m          A
+        E          C             Em          C
 They'll go for the throat of the man with the money
-      E walk   D#         C#
+      G walk   D          Em
 who's telling them who to despise.
 
-[Chorus]                      C#m        A                 E6sus2       B
+[Chorus]                      Em        C                 G6sus2       B
 [The Other Riff]    I'm not a prophet or philsopher, maybe nor a decent lay
-                                   C#m               A                                E6sus2                       F#6no3
+                                   Em               C                                G6sus2                       A6no3
                     But anyone who knows Can see the light that's coming up ain't the light of heaven but the lizard's busted gut
-                           C#m                    D             E6sus2                      F#7no3   F#7sus2 C#m
+                           Em                    D             G6sus2                      F#7no3   F#7sus2 Em
                     And to pick up where I put it down What's a human's lonely body on on a bottle's fleshy frame?
-[Chorus]                      C#m        A                 E6sus2       Asus2
 
 [Intro x2, fast]
 [Intro x2, og tempo]
