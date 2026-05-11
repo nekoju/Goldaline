@@ -1,7 +1,9 @@
 ---
 The Boatman
-Verse: Em B7 Am7 Am7
-       Em B7 Am7 G
+Verse: Em B7 Am7 Am7 |
+       Em B7 Am7 G   |x3
+       Em B7 Am7 Am7 
+       Em B7 Am7 Am7 (second verse uses Am7b5)   
 Breaks:Em B7 Am7 Am7
        Em B7 Am7 G
        Em G    D  Em
